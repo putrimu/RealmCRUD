@@ -10,10 +10,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.gookkis.realmtutorial.R;
-import com.gookkis.realmtutorial.helper.RealmHelper;
-import com.gookkis.realmtutorial.model.ArticleModel;
-
 import java.util.ArrayList;
 
 public class EditActivity extends AppCompatActivity {
